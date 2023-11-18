@@ -1,4 +1,4 @@
-Inventory Management Project
+# Inventory Management Project
 ## Overview
 This project focuses on analyzing and visualizing inventory data to gain insights into inventory trends. It involves merging data from two datasets - ```Inventory Dataset.xlsx``` and ```New Inventory.xlsx```. The resulting merged dataset is used to create visualizations showcasing inventory levels and new arrivals over time.
 
