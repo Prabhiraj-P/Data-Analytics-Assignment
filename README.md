@@ -22,18 +22,19 @@ Combined Chart: A combination of line and bar charts providing a comprehensive v
 The visualizations highlight trends, such as increased inventory additions in October-November and lower levels in June. The year-end peak in on-hand inventory emphasizes the significance of year-end inventory management.
 
 ## Files
-Data:
-```Inventory Dataset.xlsx```
-```New Inventory.xlsx```
-Code:
-```code.ipynb``` - Jupyter Notebook containing the Python code.
-Plots:
-```total_item_qty_plot.png``` - Bar chart image.
-```multiple_charts.png``` - Combined chart image.
+Data:<br>
+```Inventory Dataset.xlsx```<br>
+```New Inventory.xlsx```<br>
+Code:<br>
+```code.ipynb``` - Jupyter Notebook containing the Python code.<br>
+Plots:<br>
+```total_item_qty_plot.png``` - Bar chart image.<br>
+```multiple_charts.png``` - Combined chart image.<br>
 
 ## Instructions
-Install the required libraries using ```pip install -r requirements.txt```.
-Run the Jupyter Notebook ```code.ipynb``` to execute the code.
-View the generated plots in the plots folder.
-Author
+Install the required libraries using ```pip install -r requirements.txt```.<br>
+Run the Jupyter Notebook ```code.ipynb``` to execute the code.<br>
+View the generated plots in the plots folder.<br>
+
+### Author
 Prabhraj P
